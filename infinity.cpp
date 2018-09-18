@@ -1,3 +1,10 @@
+/*
+Can calculate numbers up to 10^2,000,000,000, although calculations will become very slow. Currently supports BigNum addition,
+multiplication, factorial, subtraction. Division on BigNums can be done, but the answer will be in scientific notation. Combinatorics,
+roots, and logarithms are currently in development, but will still work as expected on BigNums.
+*/
+
+
 #include <iostream>
 #include <fstream>
 #include <vector>
